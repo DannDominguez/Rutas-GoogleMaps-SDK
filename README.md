@@ -18,7 +18,9 @@ var body: some View {
     }
 }
 ```
-![AppCompilation](https://github.com/DannDominguez/Rutas-GoogleMaps-SDK/blob/main/simulator_screenshot_10CB4A84-484B-4D8C-9657-2C57D9686060.png?raw=true)
+![AppCompilation]([https://github.com/DannDominguez/Rutas-GoogleMaps-SDK/blob/main/simulator_screenshot_10CB4A84-484B-4D8C-9657-2C57D9686060.png?raw=true]
+![AppCompilation](https://github.com/DannDominguez/Rutas-GoogleMaps-SDK/blob/main/Rutas%2013.25.50.png)
+
 
 ## Version
 Versión 1.0
